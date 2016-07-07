@@ -1,33 +1,33 @@
 .container {
-  position: relative;
-  display: block;
-  margin: auto;
+  	position: relative;
+  	display: block;
+  	margin: auto;
 }
 
 .box {
 	position: relative;
 	display: inline-block;
-  background-color: black;
-  padding: 0 0 0 0;
-  opacity: 0.1;
+  	background-color: black;
+  	padding: 0 0 0 0;
+  	opacity: 0.1;
 }
 
 .res {
-  position: relative;
-  display: inline-block;
+  	position: relative;
+  	display: inline-block;
 }
 
 .size {
-  position: relative;
-  display: block;
-  margin: auto;
+  	position: relative;
+  	display: block;
+  	margin: auto;
 }
 
 .XYRes {
-  position: relative;
-  display: block;
-  margin: auto;
-  width: 450px;
+  	position: relative;
+  	display: block;
+  	margin: auto;
+  	width: 450px;
 }
 
 input[type=text] {
@@ -49,12 +49,12 @@ input[type=text]:focus {
 }
 
 button {
-  position: relative;
-  display: block;
-  margin: auto;
-  margin-top: 10px;
+  	position: relative;
+  	display: block;
+  	margin: auto;
+  	margin-top: 10px;
 	height: 35px;
-  width: 200px;
+  	width: 200px;
 	font-family: Arial;
 	font-size: 13px;
 	font-weight: bold;
